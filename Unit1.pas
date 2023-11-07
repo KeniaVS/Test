@@ -28,8 +28,11 @@ Var
 test : string;
 begin
 ShowMessage('Creando conflicto');
+ShowMessage('Queremos ocasionar un conflicto');
+ShowMessage('Hola esto es un test');
 ShowMessage('Creando conflicto x2');
 ShowMessage('hola hola hola');
+
 end;
 
 end.
