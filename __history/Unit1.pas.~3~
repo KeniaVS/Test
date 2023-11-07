@@ -24,12 +24,8 @@ implementation
 {$R *.dfm}
 
 procedure TForm1.btn1Click(Sender: TObject);
-Var
-test : string;
 begin
-ShowMessage('Creando conflicto');
-ShowMessage('Creando conflicto x2');
-ShowMessage('hola hola hola');
+//nuevo boton agregado- test
 end;
 
 end.
